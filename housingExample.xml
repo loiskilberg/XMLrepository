@@ -1,0 +1,14 @@
+<housing>
+  <streetNum>14</streetNum>
+  <streetName>Partridge Circle</streetName>
+  <zip>03051</zip>
+  <propertyType arrangement="detached">condo</propertyType>
+  <numBedrooms>3</numBedrooms>
+</housing>
+<housing>
+  <streetNum>23</streetNum>
+  <streetName>Central Street</streetName>
+  <zip>02476</zip>
+  <propertyType arrangement="duplex">house</propertyType>
+  <numBedrooms>4</numBedrooms>
+</housing>
